@@ -1,5 +1,5 @@
 ## 🌐 Live Demo
-Try the interactive web demo here: **[whria78.github.io/facelandmark](https://whria78.github.io/facelandmark)**
+**[whria78.github.io/facelandmark](https://whria78.github.io/facelandmark)**
 
 ## 🤖 Powered by MediaPipe
-This project is a lightweight demo built with **Google MediaPipe**, a powerful open-source framework for on-device machine learning. It utilizes MediaPipe's Face Landmarker model to extract 468 facial points and generate a geometric mesh directly in your browser.
+This project is a demo built using **[Google MediaPipe](https://developers.google.com/mediapipe)**, a powerful open-source framework for on-device machine learning. It utilizes the MediaPipe Face Landmarker solution to accurately detect **468 3D facial landmarks** and generate an interactive geometric mesh (tessellation) entirely within your web browser.
