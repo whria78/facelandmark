@@ -1,8 +1,7 @@
-# Figure 1 Generation Process
+# Figure 1 Generation
 
 ![Figure 1: Generated Output](Fig1_guetzli.jpg)
 
-## About this Figure
 The figure above (`Fig1_guetzli.jpg`) was generated using the Python scripts and demo `.jpg` files provided in this `fig1` directory.
 
 ## Prerequisites
